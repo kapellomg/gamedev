@@ -1,21 +1,3 @@
-fileFormatVersion: 2
-guid: 138991e1d9d76cc41b0a352f3d80b23f
-timeCreated: 1493304218
-licenseType: Free
-TrueTypeFontImporter:
-  serializedVersion: 4
-  fontSize: 16
-  forceTextureCase: -2
-  characterSpacing: 0
-  characterPadding: 1
-  includeFontData: 1
-  fontName: Consolas
-  fontNames:
-  - Consolas
-  fallbackFontReferences: []
-  customCharacters: 
-  fontRenderingMode: 0
-  ascentCalculationMode: 1
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e3fe60e59ebff281b8db3d329733496328ffd0b3686710ff2e1427b540c3419
+size 453
